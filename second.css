@@ -1,4 +1,153 @@
-.name
-{
-    font-size: 100px;
+.name {
+    font-size: 30px;
+}
+
+.intro-part {
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+
+    height: auto;
+
+
+}
+
+.first-part {
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+
+}
+
+.intro-part img {
+    width: 100%;
+    height: 700px;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0px;
+
+}
+
+.Hire-Me {
+
+
+    padding: 20px;
+    background-image: linear-gradient(lightblue, blue);
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 40px;
+
+}
+
+#intro {
+    height: 700px;
+}
+
+.button {
+    margin-top: 80px;
+}
+
+.biography-part {
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+
+
+}
+
+.second-part {
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+.biography-part img {
+    width: 100%;
+    height: 700px;
+}
+
+.second-part {
+
+    margin-top: 50px;
+}
+
+.latest {
+    width: 25%;
+    margin-left: 5%;
+    padding: 1%;
+    float: left;
+
+
+}
+
+.latest-work {
+    background-image: url(personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+
+.latest img {
+    height: 300px;
+}
+
+section {
+    height: 1000px;
+}
+
+.my-work {
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 100px;
+}
+
+.my-work:hover {
+    color: red;
+}
+
+.name {
+    font-weight: 700;
+    font-size: medium;
+    text-align: center;
+}
+
+footer {
+    font-size: small;
+    font-weight: 200;
+    text-align: center;
+
+}
+
+.foot {
+    text-align: center;
+    font-weight: 600;
+    font-size: small;
+}
+
+.last-button {
+    padding: 20px;
+    background-image: linear-gradient(lightblue, blue);
+    text-decoration: none;
+    margin: 50px;
+    font-weight: 700;
+    border-radius: 40px;
+
+
+
+}
+
+.last {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.last-button:hover {
+    background-color: blueviolet;
+    color: brown;
+}
+
+.last-section {
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+
 }
